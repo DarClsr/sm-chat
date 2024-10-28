@@ -42,7 +42,6 @@ export const LoginPage = () => {
                 autoClose: 300,
                 onClose: () => {
                     navigate("/")
-                    console.log("hahah")
                 }
             });
         });

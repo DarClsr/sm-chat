@@ -7,7 +7,7 @@ export default function Root() {
             <div id="sidebar">
 
             </div>
-            <div id="content">
+            <div id="content" className="overflow-hidden h-[100vh]">
                 <Outlet />
             </div>
         </>
