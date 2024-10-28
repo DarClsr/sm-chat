@@ -15,7 +15,7 @@
         "title": "chat",
         "width": 800,
         "height": 600,
-        "resizable":true
+        "resizable": true
       }
     ],
     "security": {
